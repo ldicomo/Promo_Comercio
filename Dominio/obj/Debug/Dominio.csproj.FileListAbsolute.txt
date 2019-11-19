@@ -1,0 +1,6 @@
+C:\Users\usuario\Documents\HTML5, CSS3 Y JAVASCRIPT\Promo Comercio\Dominio\bin\Debug\Dominio.dll
+C:\Users\usuario\Documents\HTML5, CSS3 Y JAVASCRIPT\Promo Comercio\Dominio\bin\Debug\Dominio.pdb
+C:\Users\usuario\Documents\HTML5, CSS3 Y JAVASCRIPT\Promo Comercio\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\HTML5, CSS3 Y JAVASCRIPT\Promo Comercio\Dominio\obj\Debug\Dominio.dll
+C:\Users\usuario\Documents\HTML5, CSS3 Y JAVASCRIPT\Promo Comercio\Dominio\obj\Debug\Dominio.pdb
+C:\Users\usuario\Documents\HTML5, CSS3 Y JAVASCRIPT\Promo Comercio\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
